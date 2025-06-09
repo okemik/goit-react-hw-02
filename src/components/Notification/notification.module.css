@@ -1,0 +1,8 @@
+.message {
+    border: 2px solid #7f8c8d;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: center;
+    color: #7f8c8d;
+    font-style: italic;
+}
